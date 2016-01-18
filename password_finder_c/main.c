@@ -4,7 +4,7 @@
 
 int main(){
 
-	int n = 1000;
+	int n = 75000;
 	char alphanumeric[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 	char passwordGenerated[n];
 	char res[n];
