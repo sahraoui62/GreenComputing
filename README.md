@@ -1,10 +1,8 @@
 # GreenComputing
 
-Comparaison between 2 modes of programmation. In there are
+Comparison of energy consumption between 2 programmation :
   - a code using hadoop
-  - a code using simple programmation
+  - a code using declarative programming
 
-There 2 codes produce a list of anagram in a dictionnary of about 340 000 words.
+These 2 codes produce a list of anagrams in a dictionnary which is composed of about 340 000 words.
 
-It is to compare the energy consumption.
-  
